@@ -17,3 +17,5 @@ large ships within it. Automating this detection can support:
 
 ## Skills applied
 Machine learning, computer vision (CNN), Python, data analysis.
+## Full project files
+Notebook and dataset details: [Google Drive folder](https://drive.google.com/drive/folders/1dB_Ru_-zKq45cfIVhZwdSfApzhSvupLx?usp=drive_link)
